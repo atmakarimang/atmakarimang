@@ -34,7 +34,7 @@
 
 <br />
 <br />
+  
+### My Spotify Now
 
----
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ynsd2resbqp4k7xd7djluea&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)  
----
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ynsd2resbqp4k7xd7djluea&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=21ynsd2resbqp4k7xd7djluea&redirect=true)
