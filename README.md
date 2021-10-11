@@ -36,9 +36,5 @@
 <br />
 
 ---
-
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/21ynsd2resbqp4k7xd7djluea)
-<br/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ynsd2resbqp4k7xd7djluea&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)  
 ---
