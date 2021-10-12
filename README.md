@@ -37,4 +37,4 @@
   
 ### My Spotify Now
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ynsd2resbqp4k7xd7djluea&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=21ynsd2resbqp4k7xd7djluea&redirect=true)
+<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=21ynsd2resbqp4k7xd7djluea&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21ynsd2resbqp4k7xd7djluea&cover_image=true&theme=natemoo-re" /></a></div>
