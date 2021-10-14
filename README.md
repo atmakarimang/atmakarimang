@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm <a href="https://aakarsh.me" target="_blank">Atma </a>!
+## I'm <a href="https://atma-portofolio.netlify.app/" target="_blank">Atma </a>!
 
 <a href="#" target="_blank"><img align="left" alt="" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://www.linkedin.com/in/atma-karimang-soebekty-tupelu" target="_blank"><img align="left" alt="Atma | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
