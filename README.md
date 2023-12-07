@@ -10,11 +10,11 @@
 
 ### 📕 About me
   
-- 🔭 I’m currently working on: Still looking for work 😄
+- 🔭 I’m currently working on: G-SMART IT Solution
 - 🌱 I’m currently learning: Laravel, Tailwind
 - 💬 Ask me about: Football, Music and A little about coding 😄
 - 📫 How to reach me: You can contact via email or social media above
-- ⚡ Fun fact: Very like music, and manchester united #GGMU
+- ⚡ Fun fact: Very like music and manchester united #GGMU
 
 ### Languages and Tools:
 
